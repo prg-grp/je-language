@@ -1,2 +1,1 @@
-# je-language
-Repo for JE
+# The J<sub>E</sub> Secure Programming Language
